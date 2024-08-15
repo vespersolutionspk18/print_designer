@@ -1,0 +1,1 @@
+# frappe -- https://github.com/verp/frappe is installed via 'bench init'
